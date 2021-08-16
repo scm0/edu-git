@@ -1,2 +1,5 @@
+*.iws
+.idea
 *.itml
 *.ipr
+
